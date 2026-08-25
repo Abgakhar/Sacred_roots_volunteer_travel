@@ -1,0 +1,6 @@
+{
+  "name": "Sacred Roots Volunteer & Travel",
+  "description": "Purpose-driven educational and volunteer journeys in Costa Rica connecting travelers with nature, culture, conservation, and hands-on service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
